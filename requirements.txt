@@ -1,0 +1,3 @@
+praw
+groqai
+tqdm
